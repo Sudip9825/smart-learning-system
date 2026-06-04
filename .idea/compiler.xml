@@ -11,9 +11,11 @@
         </processorPath>
         <module name="smart-learning-system (2)" />
         <module name="smart-learning-system" />
-        <module name="smart-learning-system (1)" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="smart-learning-system (1)" target="21" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
